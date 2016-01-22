@@ -1,7 +1,7 @@
 name: vancitybroker.com
 favicon: null
-layout_spectrum: 0.4978602300398052
-typography_spectrum: 0.383999353274703
+layout_spectrum: 0.99727
+typography_spectrum: 1
 title: 'Vancouver Realtor and Business Broker '
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.7410583945456892
-  lightness: 0.4662828466389328
+    - '#00285b'
+    - '#fff0e9'
+    - '#006cae'
+    - '#b0bfd0'
+    - '#6195ba'
+  brandStrength: 0.25
+  lightness: 0.8125
   saturation: 0.5059187482111156
-  rhythmicContrast: 0.5348452001344413
+  rhythmicContrast: 0.75
 purpose: []
